@@ -52,7 +52,9 @@ Dica: Pode usar sites como o Devicon para encontrar mais tags -->
   </a>
 </p>
 
-## 🕹️ Contribuições (Pac-Man)
-
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg?v=1)
-
+<div align="center">
+  <h3>🕹️ Contribuições (Pac-Man)</h3>
+  <div style="background-color: #0d1117; padding: 16px; border-radius: 8px; display: inline-block; border: 1px solid #30363d;">
+    <img src="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg?v=1" alt="Pac-Man Contribution Graph" width="100%" />
+  </div>
+</div>
