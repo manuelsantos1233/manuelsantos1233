@@ -1,78 +1,47 @@
-<br clear="both">
+# Olá, eu sou o [Seu Nome]! 👋
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+### 🚀 Sobre Mim
+Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Frontend / Backend / Fullstack / Mobile / etc.]. Gosto de resolver problemas reais através do código e estou sempre à procura de novos desafios e aprendizagens.
 
-###
+- 🌍 Baseado em [Sua Cidade/País]
+- 💼 Atualmente a trabalhar como **[Seu Cargo/Estudante]**
+- 🌱 A aprender mais sobre **[Tecnologia que está a estudar agora]**
+- 💬 Pergunte-me sobre **[Assunto que domina, ex: React, Clean Code, Jogos]**
+- ✉️ Entre em contacto comigo através de: **[seu.email@email.com]**
 
-<h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Manuel Santos
-</h1>
+---
 
+### 🛠️ Tecnologias e Ferramentas
 
-###
+<!-- Substitua ou adicione os ícones das tecnologias que utiliza. 
+Dica: Pode usar sites como o Devicon para encontrar mais tags -->
+<p align="left">
+  <img src="https://jsdelivr.net" height="40" alt="javascript logo"  />
+  <img src="https://jsdelivr.net" height="40" alt="typescript logo" />
+  <img src="https://jsdelivr.net" height="40" alt="react logo" />
+  <img src="https://jsdelivr.net" height="40" alt="nodejs logo" />
+  <img src="https://jsdelivr.net" height="40" alt="git logo" />
+</p>
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<h2 data-importer="text" align="left">About me</h2>
+<!-- IMPORTANTE: Substitua o termo 'seu-usuario' pelo seu nome de utilizador real do GitHub -->
+<p align="left">
+  <img src="https://vercel.app" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" height="150" alt="Linguagens mais usadas" />
+</p>
 
-###
+---
 
-<p data-importer="text" align="left">🔭 Currently working as Computer Engineering student at University of Minho<br>📍 Based in: Braga, Portugal</p>
+### 🌐 Redes Sociais
 
-###
-
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-![Cobrinha do GitHub](https://githubusercontent.com)
-
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
-###
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+</p>
