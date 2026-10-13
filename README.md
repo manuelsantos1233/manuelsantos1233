@@ -54,5 +54,5 @@ Dica: Pode usar sites como o Devicon para encontrar mais tags -->
 
 ## 🕹️ Contribuições (Pac-Man)
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg?v=1)
 
