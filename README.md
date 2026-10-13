@@ -52,7 +52,7 @@ Dica: Pode usar sites como o Devicon para encontrar mais tags -->
   </a>
 </p>
 
-## 🐍 Contribuições (GitHub Snake)
+## 🕹️ Contribuições (Pac-Man)
 
-![GitHub Snake](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/pacman-output/pacman-contribution-graph.svg)
 
