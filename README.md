@@ -1,4 +1,10 @@
-# Olá, eu sou o [Seu Nome]! 👋
+<div align="center">
+  <h1>
+    Olá, eu sou o Manuel Santos! 
+    <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" />
+  </h1>
+</div>
+
 
 ### 🚀 Sobre Mim
 Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Frontend / Backend / Fullstack / Mobile / etc.]. Gosto de resolver problemas reais através do código e estou sempre à procura de novos desafios e aprendizagens.
