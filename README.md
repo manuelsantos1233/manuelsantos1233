@@ -45,3 +45,8 @@ Dica: Pode usar sites como o Devicon para encontrar mais tags -->
     <img src="https://shields.io" alt="Portfolio" />
   </a>
 </p>
+
+## 🐍 Contribuições (GitHub Snake)
+
+![GitHub Snake](https://githubusercontent.com)
+
