@@ -54,5 +54,5 @@ Dica: Pode usar sites como o Devicon para encontrar mais tags -->
 
 ## 🐍 Contribuições (GitHub Snake)
 
-![GitHub Snake](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg)
 
