@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Olá, eu sou o Manuel Santos! 
-    <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
   </h1>
 </div>
 
