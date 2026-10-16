@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mim
 Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Frontend / Backend / Fullstack / Mobile / etc.]. Gosto de resolver problemas reais através do código e estou sempre à procura de novos desafios e aprendizagens.
 
-- 🌍 Baseado em [Sua Cidade/País]
+- 🌍 Baseado em **Braga, Portugal**
 - 💼 Atualmente a trabalhar como **[Seu Cargo/Estudante]**
 - 🌱 A aprender mais sobre **[Tecnologia que está a estudar agora]**
 - 💬 Pergunte-me sobre **[Assunto que domina, ex: React, Clean Code, Jogos]**
@@ -19,24 +19,20 @@ Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Fronten
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<!-- Substitua ou adicione os ícones das tecnologias que utiliza. 
-Dica: Pode usar sites como o Devicon para encontrar mais tags -->
 <p align="left">
-  <img src="https://jsdelivr.net" height="40" alt="javascript logo"  />
-  <img src="https://jsdelivr.net" height="40" alt="typescript logo" />
-  <img src="https://jsdelivr.net" height="40" alt="react logo" />
-  <img src="https://jsdelivr.net" height="40" alt="nodejs logo" />
-  <img src="https://jsdelivr.net" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<!-- IMPORTANTE: Substitua o termo 'seu-usuario' pelo seu nome de utilizador real do GitHub -->
 <p align="left">
-  <img src="https://vercel.app" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelsantos1233&show_icons=true&theme=radical" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsantos1233&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
 </p>
 
 ---
