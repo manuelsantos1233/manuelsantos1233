@@ -41,7 +41,7 @@ Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Fronten
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/manuel-santoss" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-santoss" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
