@@ -66,7 +66,7 @@ Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Fronten
 ## 🕹️ Contribuições (Pac-Man)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg?v=1" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/manuelsantos1233/manuelsantos1233/output/github-snake.svg?v=1" />
 </picture>
