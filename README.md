@@ -31,8 +31,8 @@ Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Fronten
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manuelsantos1233&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsantos1233&layout=compact&theme=dracula&count_private=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manuelsantos1233&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsantos1233&layout=compact&theme=dracula&count_private=true&cache_seconds=1800" alt="Linguagens mais usadas" />
 </p>
 
 ---
