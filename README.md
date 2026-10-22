@@ -10,10 +10,10 @@
 Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Frontend / Backend / Fullstack / Mobile / etc.]. Gosto de resolver problemas reais através do código e estou sempre à procura de novos desafios e aprendizagens.
 
 - 🌍 Baseado em **Braga, Portugal**
-- 💼 Atualmente a trabalhar como **[Seu Cargo/Estudante]**
+- 💼 Atualmente a trabalhar como **Estudante UMinho**
 - 🌱 A aprender mais sobre **[Tecnologia que está a estudar agora]**
 - 💬 Pergunte-me sobre **[Assunto que domina, ex: React, Clean Code, Jogos]**
-- ✉️ Entre em contacto comigo através de: **[seu.email@email.com]**
+- ✉️ Entre em contacto comigo através de: **manuelsantos1438@gmail.com**
 
 ---
 
@@ -40,13 +40,28 @@ Sou um apaixonado por tecnologia e atualmente focado em desenvolvimento [Fronten
 ### 🌐 Redes Sociais
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/manuel-santoss" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/manuelsantos1233" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:manuelsantos1438@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/manuel._ssantos" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
 
 ## 🕹️ Contribuições (Pac-Man)
 
